@@ -467,4 +467,5 @@ async function run_fontface() {
         }
     };
     window.p = prim;
+    run_hax();
 }

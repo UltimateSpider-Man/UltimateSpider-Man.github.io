@@ -792,5 +792,6 @@ async function run_psfree() {
     };
 
     window.p = prim;
+    run_hax();
 }
 
